@@ -31,6 +31,8 @@ Execute Actions and AWS Lambdas with your tests, combining automated fixturing w
 
 ## Some Reference Material
 
-- [Documentation](https://help.testspace.com)
-- [Visualizing GitHub Automated Test Results](https://www.testspace.com/blog/visualizing-test-results-with-github-actions) blog article
-- [Implementing Manual Tests using GitHub Repositories](https://www.testspace.com/blog/github-test-case-management) blog article 
+- [Testspace GitHub App](https://github.com/marketplace/testspace-com)
+- [Testspace Setup GitHub Action](https://github.com/marketplace/actions/testspace-setup-cli)
+- [Technical Documentation](https://help.testspace.com)
+- [Visualizing GitHub Automated Test Results article](https://www.testspace.com/blog/visualizing-test-results-with-github-actions) 
+- [Implementing Manual Tests using GitHub Repositories article](https://www.testspace.com/blog/github-test-case-management)  
